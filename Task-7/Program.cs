@@ -12,7 +12,7 @@ namespace Task_7
         {
             const string filePath = "phones.txt";
             const string filePath2 = "phones2.txt";
-            const string filePath3 = "UPhones.txt";
+            const string filePath3 = "Phones3.txt";
             const string filePath4 = "New.txt";
 
             PhoneBook.Task1(filePath, filePath2);
